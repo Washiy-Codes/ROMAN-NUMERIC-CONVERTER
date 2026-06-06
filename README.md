@@ -11,7 +11,7 @@ The Roman Numeral Converter is a utility application that converts numbers betwe
 
 ---
 
-## 🚀 Features
+## Features
 - Convert integers to Roman numerals
 - Convert Roman numerals to integers
 - Input validation and error handling
@@ -20,13 +20,13 @@ The Roman Numeral Converter is a utility application that converts numbers betwe
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Programming Language: HTML, CSS & JavaScript
 - Version Control: Git & GitHub
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 The application uses predefined Roman numeral mappings and rule-based logic to perform conversions while maintaining standard Roman numeral formatting rules.
 
 ---
