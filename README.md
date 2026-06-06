@@ -1,11 +1,11 @@
 # Roman Numeral Converter
 
-## 📌 Project Overview
+## Project Overview
 The Roman Numeral Converter is a utility application that converts numbers between **Arabic numerals (integers)** and **Roman numerals**. The project demonstrates algorithm design, input validation, and efficient numeral mapping to ensure accurate conversions.
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Roman Numeric Converter](https://global.discourse-cdn.com/freecodecamp/original/4X/9/2/5/925f9fb66ff01653decdaa0c7201b9a58fb917ad.png)
 
